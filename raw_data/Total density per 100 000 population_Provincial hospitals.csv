@@ -1,0 +1,252 @@
+IndicatorCode,Indicator,ValueType,ParentLocationCode,ParentLocation,Location type,SpatialDimValueCode,Location,Period type,Period,IsLatestYear,Dim1 type,Dim1,Dim1ValueCode,Dim2 type,Dim2,Dim2ValueCode,Dim3 type,Dim3,Dim3ValueCode,DataSourceDimValueCode,DataSource,FactValueNumericPrefix,FactValueNumeric,FactValueUoM,FactValueNumericLowPrefix,FactValueNumericLow,FactValueNumericHighPrefix,FactValueNumericHigh,Value,FactValueTranslationID,FactComments,Language,DateModified
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,WPR,Western Pacific,Country,TUV,Tuvalu,Year,2014,true,,,,,,,,,,,,,0,,,,,,0,,Only public sector data,EN,2016-01-28T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,MKD,The former Yugoslav Republic of Macedonia,Year,2014,true,,,,,,,,,,,,,1.66,,,,,,1.66,,Only public sector data,EN,2016-01-28T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2013,true,,,,,,,,,,,,,0,,,,,,0.00,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2013,true,,,,,,,,,,,,,0,,,,,,0.00,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,WPR,Western Pacific,Country,FJI,Fiji,Year,2013,true,,,,,,,,,,,,,0,,,,,,0.00,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,GRD,Grenada,Year,2013,true,,,,,,,,,,,,,0,,,,,,0.00,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2013,true,,,,,,,,,,,,,0,,,,,,0.00,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,WPR,Western Pacific,Country,KIR,Kiribati,Year,2013,true,,,,,,,,,,,,,0,,,,,,0.00,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,LTU,Lithuania,Year,2013,true,,,,,,,,,,,,,0,,,,,,0.00,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,WPR,Western Pacific,Country,FSM,Micronesia (Federated States of),Year,2013,true,,,,,,,,,,,,,0,,,,,,0.00,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,VCT,Saint Vincent and the Grenadines,Year,2013,true,,,,,,,,,,,,,0,,,,,,0.00,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,SUR,Suriname,Year,2013,true,,,,,,,,,,,,,0,,,,,,0.00,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,TGO,Togo,Year,2013,true,,,,,,,,,,,,,0,,,,,,0.00,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2013,true,,,,,,,,,,,,,0.016,,,,,,0.02,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,SLV,El Salvador,Year,2013,true,,,,,,,,,,,,,0.032,,,,,,0.03,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,GHA,Ghana,Year,2013,true,,,,,,,,,,,,,0.031,,,,,,0.03,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2013,true,,,,,,,,,,,,,0.032,,,,,,0.03,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,HTI,Haiti,Year,2013,true,,,,,,,,,,,,,0.039,,,,,,0.04,,Only private sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,KEN,Kenya,Year,2013,true,,,,,,,,,,,,,0.036,,,,,,0.04,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,UGA,Uganda,Year,2013,true,,,,,,,,,,,,,0.037,,,,,,0.04,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,BEN,Benin,Year,2013,true,,,,,,,,,,,,,0.048,,,,,,0.05,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,MLI,Mali,Year,2013,true,,,,,,,,,,,,,0.046,,,,,,0.05,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,NER,Niger,Year,2013,true,,,,,,,,,,,,,0.062,,,,,,0.06,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,HND,Honduras,Year,2013,true,,,,,,,,,,,,,0.074,,,,,,0.07,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2013,true,,,,,,,,,,,,,0.071,,,,,,0.07,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2013,true,,,,,,,,,,,,,0.071,,,,,,0.07,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2013,true,,,,,,,,,,,,,0.085,,,,,,0.08,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2013,true,,,,,,,,,,,,,0.076,,,,,,0.08,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2013,true,,,,,,,,,,,,,0.082,,,,,,0.08,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2013,true,,,,,,,,,,,,,0.078,,,,,,0.08,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2013,true,,,,,,,,,,,,,0.095,,,,,,0.09,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,GIN,Guinea,Year,2013,true,,,,,,,,,,,,,0.085,,,,,,0.09,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2013,true,,,,,,,,,,,,,0.098,,,,,,0.10,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2013,true,,,,,,,,,,,,,0.1,,,,,,0.10,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2013,true,,,,,,,,,,,,,0.11,,,,,,0.11,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2013,true,,,,,,,,,,,,,0.11,,,,,,0.11,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2013,true,,,,,,,,,,,,,0.11,,,,,,0.11,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,CHL,Chile,Year,2013,true,,,,,,,,,,,,,0.12,,,,,,0.12,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,PRY,Paraguay,Year,2013,true,,,,,,,,,,,,,0.12,,,,,,0.12,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,ZAF,South Africa,Year,2013,true,,,,,,,,,,,,,0.12,,,,,,0.12,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2013,true,,,,,,,,,,,,,0.12,,,,,,0.12,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2013,true,,,,,,,,,,,,,0.14,,,,,,0.14,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,MWI,Malawi,Year,2013,true,,,,,,,,,,,,,0.14,,,,,,0.14,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,BDI,Burundi,Year,2013,true,,,,,,,,,,,,,0.15,,,,,,0.15,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,TCD,Chad,Year,2013,true,,,,,,,,,,,,,0.15,,,,,,0.15,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2013,true,,,,,,,,,,,,,0.15,,,,,,0.15,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,HUN,Hungary,Year,2013,true,,,,,,,,,,,,,0.17,,,,,,0.17,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,NAM,Namibia,Year,2013,true,,,,,,,,,,,,,0.17,,,,,,0.17,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,ECU,Ecuador,Year,2013,true,,,,,,,,,,,,,0.18,,,,,,0.18,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,LUX,Luxembourg,Year,2013,true,,,,,,,,,,,,,0.19,,,,,,0.19,,Only private sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,GMB,Gambia,Year,2013,true,,,,,,,,,,,,,0.22,,,,,,0.22,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2013,true,,,,,,,,,,,,,0.22,,,,,,0.22,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,MLT,Malta,Year,2013,true,,,,,,,,,,,,,0.23,,,,,,0.23,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2013,true,,,,,,,,,,,,,0.24,,,,,,0.24,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2013,true,,,,,,,,,,,,,0.26,,,,,,0.26,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2013,true,,,,,,,,,,,,,0.27,,,,,,0.27,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,COM,Comoros,Year,2013,true,,,,,,,,,,,,,0.27,,,,,,0.27,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2013,true,,,,,,,,,,,,,0.28,,,,,,0.28,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2013,true,,,,,,,,,,,,,0.29,,,,,,0.29,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,JAM,Jamaica,Year,2013,true,,,,,,,,,,,,,0.29,,,,,,0.29,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,BLZ,Belize,Year,2013,true,,,,,,,,,,,,,0.3,,,,,,0.30,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,ESP,Spain,Year,2013,true,,,,,,,,,,,,,0.3,,,,,,0.30,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,EST,Estonia,Year,2013,true,,,,,,,,,,,,,0.31,,,,,,0.31,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,LVA,Latvia,Year,2013,true,,,,,,,,,,,,,0.34,,,,,,0.34,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,PAN,Panama,Year,2013,true,,,,,,,,,,,,,0.34,,,,,,0.34,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,ALB,Albania,Year,2013,true,,,,,,,,,,,,,0.35,,,,,,0.35,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,BWA,Botswana,Year,2013,true,,,,,,,,,,,,,0.35,,,,,,0.35,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,MUS,Mauritius,Year,2013,true,,,,,,,,,,,,,0.4,,,,,,0.40,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2013,true,,,,,,,,,,,,,0.4,,,,,,0.40,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,DNK,Denmark,Year,2013,true,,,,,,,,,,,,,0.41,,,,,,0.41,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2013,true,,,,,,,,,,,,,0.41,,,,,,0.41,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2013,true,,,,,,,,,,,,,0.43,,,,,,0.43,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,SRB,Serbia,Year,2013,true,,,,,,,,,,,,,0.43,,,,,,0.43,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2013,true,,,,,,,,,,,,,0.45,,,,,,0.45,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,WPR,Western Pacific,Country,BRN,Brunei Darussalam,Year,2013,true,,,,,,,,,,,,,0.48,,,,,,0.48,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2013,true,,,,,,,,,,,,,0.48,,,,,,0.48,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,ISR,Israel,Year,2013,true,,,,,,,,,,,,,0.48,,,,,,0.48,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,MNE,Montenegro,Year,2013,true,,,,,,,,,,,,,0.48,,,,,,0.48,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,SVK,Slovakia,Year,2013,true,,,,,,,,,,,,,0.48,,,,,,0.48,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,SVN,Slovenia,Year,2013,true,,,,,,,,,,,,,0.48,,,,,,0.48,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,ROU,Romania,Year,2013,true,,,,,,,,,,,,,0.5,,,,,,0.50,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,WPR,Western Pacific,Country,SGP,Singapore,Year,2013,true,,,,,,,,,,,,,0.5,,,,,,0.50,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2013,true,,,,,,,,,,,,,0.53,,,,,,0.53,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,WPR,Western Pacific,Country,WSM,Samoa,Year,2013,true,,,,,,,,,,,,,0.53,,,,,,0.53,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2013,true,,,,,,,,,,,,,0.55,,,,,,0.55,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2013,true,,,,,,,,,,,,,0.56,,,,,,0.56,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,SEAR,South-East Asia,Country,MDV,Maldives,Year,2013,true,,,,,,,,,,,,,0.58,,,,,,0.58,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,POL,Poland,Year,2013,true,,,,,,,,,,,,,0.61,,,,,,0.61,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2013,true,,,,,,,,,,,,,0.62,,,,,,0.62,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,CZE,Czechia,Year,2013,true,,,,,,,,,,,,,0.64,,,,,,0.64,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,MDA,Republic of Moldova,Year,2013,true,,,,,,,,,,,,,0.66,,,,,,0.66,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2013,true,,,,,,,,,,,,,0.67,,,,,,0.67,,Only private sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,HRV,Croatia,Year,2013,true,,,,,,,,,,,,,0.68,,,,,,0.68,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,BRB,Barbados,Year,2013,true,,,,,,,,,,,,,0.7,,,,,,0.70,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,GAB,Gabon,Year,2013,true,,,,,,,,,,,,,0.72,,,,,,0.72,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2013,true,,,,,,,,,,,,,0.77,,,,,,0.77,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,BHS,Bahamas,Year,2013,true,,,,,,,,,,,,,0.79,,,,,,0.79,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2013,true,,,,,,,,,,,,,0.82,,,,,,0.82,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2013,true,,,,,,,,,,,,,0.86,,,,,,0.86,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2013,true,,,,,,,,,,,,,0.86,,,,,,0.86,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,FIN,Finland,Year,2013,true,,,,,,,,,,,,,0.87,,,,,,0.87,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2013,true,,,,,,,,,,,,,0.9,,,,,,0.90,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,ISL,Iceland,Year,2013,true,,,,,,,,,,,,,0.91,,,,,,0.91,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,WPR,Western Pacific,Country,TON,Tonga,Year,2013,true,,,,,,,,,,,,,0.95,,,,,,0.95,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,TUR,Türkiye,Year,2013,true,,,,,,,,,,,,,1.23,,,,,,1.23,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,GUY,Guyana,Year,2013,true,,,,,,,,,,,,,1.25,,,,,,1.25,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,WPR,Western Pacific,Country,MNG,Mongolia,Year,2013,true,,,,,,,,,,,,,1.27,,,,,,1.27,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,CAN,Canada,Year,2013,true,,,,,,,,,,,,,1.29,,,,,,1.29,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,KAZ,Kazakhstan,Year,2013,true,,,,,,,,,,,,,1.36,,,,,,1.36,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,CUB,Cuba,Year,2013,true,,,,,,,,,,,,,1.46,,,,,,1.46,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,ARM,Armenia,Year,2013,true,,,,,,,,,,,,,1.58,,,,,,1.58,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2013,true,,,,,,,,,,,,,1.61,,,,,,1.61,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2013,true,,,,,,,,,,,,,1.66,,,,,,1.66,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,ITA,Italy,Year,2013,true,,,,,,,,,,,,,1.83,,,,,,1.83,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,MCO,Monaco,Year,2013,true,,,,,,,,,,,,,10.57,,,,,,10.57,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2013,true,,,,,,,,,,,,,2.12,,,,,,2.12,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,DMA,Dominica,Year,2013,true,,,,,,,,,,,,,2.78,,,,,,2.78,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,BLR,Belarus,Year,2013,true,,,,,,,,,,,,,2.79,,,,,,2.79,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,SMR,San Marino,Year,2013,true,,,,,,,,,,,,,3.18,,,,,,3.18,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,MEX,Mexico,Year,2013,true,,,,,,,,,,,,,3.46,,,,,,3.46,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,URY,Uruguay,Year,2013,true,,,,,,,,,,,,,3.52,,,,,,3.52,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,KNA,Saint Kitts and Nevis,Year,2013,true,,,,,,,,,,,,,3.69,,,,,,3.69,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,WPR,Western Pacific,Country,MHL,Marshall Islands,Year,2013,true,,,,,,,,,,,,,3.8,,,,,,3.80,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,CYP,Cyprus,Year,2013,true,,,,,,,,,,,,,6.92,,,,,,6.92,,,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,WPR,Western Pacific,Country,NRU,Nauru,Year,2013,true,,,,,,,,,,,,,9.95,,,,,,9.95,,Only public sector data,EN,2014-03-03T05:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,AGO,Angola,Year,2010,true,,,,,,,,,,,,,0,,,,,,0.00,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2010,false,,,,,,,,,,,,,0,,,,,,0.00,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,WPR,Western Pacific,Country,CHN,China,Year,2010,true,,,,,,,,,,,,,0,,,,,,0.00,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,WPR,Western Pacific,Country,FJI,Fiji,Year,2010,false,,,,,,,,,,,,,0,,,,,,0.00,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,GRD,Grenada,Year,2010,false,,,,,,,,,,,,,0,,,,,,0.00,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2010,false,,,,,,,,,,,,,0,,,,,,0.00,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,WPR,Western Pacific,Country,KIR,Kiribati,Year,2010,false,,,,,,,,,,,,,0,,,,,,0.00,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,WPR,Western Pacific,Country,FSM,Micronesia (Federated States of),Year,2010,false,,,,,,,,,,,,,0,,,,,,0.00,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,VCT,Saint Vincent and the Grenadines,Year,2010,false,,,,,,,,,,,,,0,,,,,,0.00,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,SYC,Seychelles,Year,2010,true,,,,,,,,,,,,,0,,,,,,0.00,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,SUR,Suriname,Year,2010,false,,,,,,,,,,,,,0,,,,,,0.00,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,TGO,Togo,Year,2010,false,,,,,,,,,,,,,0,,,,,,0.00,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2010,false,,,,,,,,,,,,,0.02,,,,,,0.02,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,SLV,El Salvador,Year,2010,false,,,,,,,,,,,,,0.03,,,,,,0.03,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,GHA,Ghana,Year,2010,false,,,,,,,,,,,,,0.03,,,,,,0.03,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2010,false,,,,,,,,,,,,,0.03,,,,,,0.03,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,HTI,Haiti,Year,2010,false,,,,,,,,,,,,,0.04,,,,,,0.04,,Only private sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,KEN,Kenya,Year,2010,false,,,,,,,,,,,,,0.04,,,,,,0.04,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,UGA,Uganda,Year,2010,false,,,,,,,,,,,,,0.04,,,,,,0.04,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,MLI,Mali,Year,2010,false,,,,,,,,,,,,,0.05,,,,,,0.05,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,BEN,Benin,Year,2010,false,,,,,,,,,,,,,0.06,,,,,,0.06,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2010,false,,,,,,,,,,,,,0.07,,,,,,0.07,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,NER,Niger,Year,2010,false,,,,,,,,,,,,,0.07,,,,,,0.07,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,HND,Honduras,Year,2010,false,,,,,,,,,,,,,0.08,,,,,,0.08,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2010,false,,,,,,,,,,,,,0.08,,,,,,0.08,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2010,false,,,,,,,,,,,,,0.09,,,,,,0.09,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2010,false,,,,,,,,,,,,,0.09,,,,,,0.09,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2010,false,,,,,,,,,,,,,0.09,,,,,,0.09,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2010,false,,,,,,,,,,,,,0.09,,,,,,0.09,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2010,false,,,,,,,,,,,,,0.1,,,,,,0.10,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2010,false,,,,,,,,,,,,,0.1,,,,,,0.10,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,GIN,Guinea,Year,2010,false,,,,,,,,,,,,,0.1,,,,,,0.10,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2010,false,,,,,,,,,,,,,0.1,,,,,,0.10,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2010,false,,,,,,,,,,,,,0.11,,,,,,0.11,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2010,false,,,,,,,,,,,,,0.11,,,,,,0.11,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2010,false,,,,,,,,,,,,,0.12,,,,,,0.12,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2010,false,,,,,,,,,,,,,0.12,,,,,,0.12,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,PRY,Paraguay,Year,2010,false,,,,,,,,,,,,,0.12,,,,,,0.12,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,CHL,Chile,Year,2010,false,,,,,,,,,,,,,0.13,,,,,,0.13,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,ZAF,South Africa,Year,2010,false,,,,,,,,,,,,,0.13,,,,,,0.13,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2010,false,,,,,,,,,,,,,0.14,,,,,,0.14,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2010,false,,,,,,,,,,,,,0.15,,,,,,0.15,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,MWI,Malawi,Year,2010,false,,,,,,,,,,,,,0.15,,,,,,0.15,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,TCD,Chad,Year,2010,false,,,,,,,,,,,,,0.17,,,,,,0.17,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,HUN,Hungary,Year,2010,false,,,,,,,,,,,,,0.17,,,,,,0.17,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2010,false,,,,,,,,,,,,,0.17,,,,,,0.17,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,BDI,Burundi,Year,2010,false,,,,,,,,,,,,,0.18,,,,,,0.18,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,NAM,Namibia,Year,2010,false,,,,,,,,,,,,,0.18,,,,,,0.18,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,ECU,Ecuador,Year,2010,false,,,,,,,,,,,,,0.2,,,,,,0.2,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,LUX,Luxembourg,Year,2010,false,,,,,,,,,,,,,0.2,,,,,,0.20,,Only private sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,GMB,Gambia,Year,2010,false,,,,,,,,,,,,,0.23,,,,,,0.23,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2010,false,,,,,,,,,,,,,0.23,,,,,,0.23,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2010,false,,,,,,,,,,,,,0.24,,,,,,0.24,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,MLT,Malta,Year,2010,false,,,,,,,,,,,,,0.24,,,,,,0.24,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2010,false,,,,,,,,,,,,,0.26,,,,,,0.26,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,COM,Comoros,Year,2010,false,,,,,,,,,,,,,0.27,,,,,,0.27,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2010,false,,,,,,,,,,,,,0.28,,,,,,0.28,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2010,false,,,,,,,,,,,,,0.28,,,,,,0.28,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,JAM,Jamaica,Year,2010,false,,,,,,,,,,,,,0.29,,,,,,0.29,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,EST,Estonia,Year,2010,false,,,,,,,,,,,,,0.3,,,,,,0.30,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,LVA,Latvia,Year,2010,false,,,,,,,,,,,,,0.31,,,,,,0.31,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,ESP,Spain,Year,2010,false,,,,,,,,,,,,,0.31,,,,,,0.31,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,BLZ,Belize,Year,2010,false,,,,,,,,,,,,,0.32,,,,,,0.32,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,ALB,Albania,Year,2010,false,,,,,,,,,,,,,0.34,,,,,,0.34,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,BWA,Botswana,Year,2010,false,,,,,,,,,,,,,0.35,,,,,,0.35,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2010,false,,,,,,,,,,,,,0.36,,,,,,0.36,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,PAN,Panama,Year,2010,false,,,,,,,,,,,,,0.37,,,,,,0.37,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,MUS,Mauritius,Year,2010,false,,,,,,,,,,,,,0.38,,,,,,0.38,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,DNK,Denmark,Year,2010,false,,,,,,,,,,,,,0.41,,,,,,0.41,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,SRB,Serbia,Year,2010,false,,,,,,,,,,,,,0.42,,,,,,0.42,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2010,false,,,,,,,,,,,,,0.42,,,,,,0.42,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2010,false,,,,,,,,,,,,,0.45,,,,,,0.45,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2010,false,,,,,,,,,,,,,0.47,,,,,,0.47,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2010,false,,,,,,,,,,,,,0.48,,,,,,0.48,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,MNE,Montenegro,Year,2010,false,,,,,,,,,,,,,0.48,,,,,,0.48,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,SVK,Slovakia,Year,2010,false,,,,,,,,,,,,,0.48,,,,,,0.48,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,SVN,Slovenia,Year,2010,false,,,,,,,,,,,,,0.49,,,,,,0.49,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,WPR,Western Pacific,Country,BRN,Brunei Darussalam,Year,2010,false,,,,,,,,,,,,,0.5,,,,,,0.50,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,ISR,Israel,Year,2010,false,,,,,,,,,,,,,0.5,,,,,,0.50,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2010,false,,,,,,,,,,,,,0.51,,,,,,0.51,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,ROU,Romania,Year,2010,false,,,,,,,,,,,,,0.51,,,,,,0.51,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,WPR,Western Pacific,Country,SGP,Singapore,Year,2010,false,,,,,,,,,,,,,0.53,,,,,,0.53,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2010,false,,,,,,,,,,,,,0.54,,,,,,0.54,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2010,false,,,,,,,,,,,,,0.55,,,,,,0.55,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,WPR,Western Pacific,Country,WSM,Samoa,Year,2010,false,,,,,,,,,,,,,0.55,,,,,,0.55,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2010,false,,,,,,,,,,,,,0.57,,,,,,0.57,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,MDA,Republic of Moldova,Year,2010,false,,,,,,,,,,,,,0.59,,,,,,0.59,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2010,false,,,,,,,,,,,,,0.59,,,,,,0.59,,Only private sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2010,false,,,,,,,,,,,,,0.6,,,,,,0.60,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,POL,Poland,Year,2010,false,,,,,,,,,,,,,0.61,,,,,,0.61,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,SEAR,South-East Asia,Country,MDV,Maldives,Year,2010,false,,,,,,,,,,,,,0.63,,,,,,0.63,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,CZE,Czechia,Year,2010,false,,,,,,,,,,,,,0.65,,,,,,0.65,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,HRV,Croatia,Year,2010,false,,,,,,,,,,,,,0.66,,,,,,0.66,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,BRB,Barbados,Year,2010,false,,,,,,,,,,,,,0.73,,,,,,0.73,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AFR,Africa,Country,GAB,Gabon,Year,2010,false,,,,,,,,,,,,,0.8,,,,,,0.80,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2010,false,,,,,,,,,,,,,0.82,,,,,,0.82,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2010,false,,,,,,,,,,,,,0.86,,,,,,0.86,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,BHS,Bahamas,Year,2010,false,,,,,,,,,,,,,0.87,,,,,,0.87,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2010,false,,,,,,,,,,,,,0.88,,,,,,0.88,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,FIN,Finland,Year,2010,false,,,,,,,,,,,,,0.88,,,,,,0.88,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2010,false,,,,,,,,,,,,,0.91,,,,,,0.91,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2010,false,,,,,,,,,,,,,0.91,,,,,,0.91,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,ISL,Iceland,Year,2010,false,,,,,,,,,,,,,0.94,,,,,,0.94,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,WPR,Western Pacific,Country,TON,Tonga,Year,2010,false,,,,,,,,,,,,,0.96,,,,,,0.96,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,LTU,Lithuania,Year,2010,false,,,,,,,,,,,,,1.17,,,,,,1.17,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,TUR,Türkiye,Year,2010,false,,,,,,,,,,,,,1.27,,,,,,1.27,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,WPR,Western Pacific,Country,MNG,Mongolia,Year,2010,false,,,,,,,,,,,,,1.31,,,,,,1.31,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,CAN,Canada,Year,2010,false,,,,,,,,,,,,,1.33,,,,,,1.33,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,GUY,Guyana,Year,2010,false,,,,,,,,,,,,,1.33,,,,,,1.33,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,KAZ,Kazakhstan,Year,2010,false,,,,,,,,,,,,,1.4,,,,,,1.4,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,CUB,Cuba,Year,2010,false,,,,,,,,,,,,,1.47,,,,,,1.47,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,ARM,Armenia,Year,2010,false,,,,,,,,,,,,,1.52,,,,,,1.52,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,ITA,Italy,Year,2010,false,,,,,,,,,,,,,1.84,,,,,,1.84,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2010,false,,,,,,,,,,,,,1.89,,,,,,1.89,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2010,false,,,,,,,,,,,,,1.92,,,,,,1.92,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,MCO,Monaco,Year,2010,false,,,,,,,,,,,,,11.3,,,,,,11.30,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2010,false,,,,,,,,,,,,,2.18,,,,,,2.18,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,BLR,Belarus,Year,2010,false,,,,,,,,,,,,,2.72,,,,,,2.72,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,DMA,Dominica,Year,2010,false,,,,,,,,,,,,,2.95,,,,,,2.95,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,SMR,San Marino,Year,2010,false,,,,,,,,,,,,,3.17,,,,,,3.17,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,URY,Uruguay,Year,2010,false,,,,,,,,,,,,,3.56,,,,,,3.56,,Only public sector data,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,WPR,Western Pacific,Country,MHL,Marshall Islands,Year,2010,false,,,,,,,,,,,,,3.7,,,,,,3.70,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,MEX,Mexico,Year,2010,false,,,,,,,,,,,,,3.73,,,,,,3.73,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,AMR,Americas,Country,KNA,Saint Kitts and Nevis,Year,2010,false,,,,,,,,,,,,,3.82,,,,,,3.82,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,EUR,Europe,Country,CYP,Cyprus,Year,2010,false,,,,,,,,,,,,,7.16,,,,,,7.16,,,EN,2013-06-11T04:00:00.000Z
+DEVICES04,Total density per 100 000 population: Provincial hospitals,numeric,WPR,Western Pacific,Country,NRU,Nauru,Year,2010,false,,,,,,,,,,,,,9.75,,,,,,9.75,,Only public sector data,EN,2013-06-11T04:00:00.000Z

@@ -1,0 +1,9 @@
+---
+title: "STA303H1 S: Methods of Data Analysis II - Project Proposal"
+author: "Yinuo Zhao"
+date: "Mar 12, 2024"
+output:
+  html_document:
+    html_preview: false
+link-citations: yes
+---
