@@ -1,1 +1,1 @@
-# sta303_project
+# STA303 Final Project
