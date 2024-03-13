@@ -1,10 +1,12 @@
 ---
-title: "STA303 - Project Proposal"
-author: "Yinuo Zhao"
-date: "Mar 12, 2024"
+title: "<center>Project Proposal - Predicting Life Expectancy</center>"
+subtitle: "<center>STA303H1 S: Methods of Data Analysis II</center>"
+author: "<center>Yinuo Zhao</center>"
+date: "<center>Mar 12, 2024</center>"
 output:
   html_document:
     html_preview: false
+    css: styles.css
 link-citations: yes
 ---
 
@@ -22,7 +24,7 @@ library(cowplot)
 library(broom)
 ```
 
-```{r checking-file}
+```{r echo=FALSE, eval=FALSE}
 fn1 <- "https://raw.githubusercontent.com/inorrr/sta303_project/main/raw_data/Age-standardized%20estimates%20of%20current%20tobacco%20use%2C%20tobacco%20smoking%20and%20cigarette%20smoking.csv"
 fn2 <- "https://raw.githubusercontent.com/inorrr/sta303_project/main/raw_data/Alcohol%2C%20total%20per%20capita%20(15%2B)%20consumption%20(in%20litres%20of%20pure%20alcohol)%20(SDG%20Indicator%203.5.2).csv"
 fn3 <- "https://raw.githubusercontent.com/inorrr/sta303_project/main/raw_data/Domestic%20general%20government%20health%20expenditure%20(GGHE-D)%20as%20percentage%20of%20general%20government%20expenditure%20(GGE)%20(%25).csv"
@@ -42,7 +44,7 @@ fn16 <- "https://raw.githubusercontent.com/inorrr/sta303_project/main/raw_data/S
 fn18 <- "https://raw.githubusercontent.com/inorrr/sta303_project/main/raw_data/Hospital%20beds%20(per%2010000%20population).csv"
 ```
 
-```{r}
+```{r echo=FALSE, eval=FALSE}
 if (!file.exists("raw_data/Age-standardized estimates of current tobacco use, tobacco smoking and cigarette smoking.csv"))
   download.file(fn1, destfile = "raw_data/Age-standardized estimates of current tobacco use, tobacco smoking and cigarette smoking.csv")
 
@@ -95,7 +97,7 @@ if (!file.exists("raw_data/Hospital beds (per 10000 population).csv"))
   download.file(fn18, destfile = "raw_data/Hospital beds (per 10000 population).csv")
 ```
 
-```{r}
+```{r echo=FALSE, eval=FALSE}
 life_expectancy_df <- data.table::fread("raw_data/Life expectancy at birth (years).csv")
 life_expectancy_df <- life_expectancy_df %>% filter(Indicator == "Life expectancy at birth (years)")
 life_expectancy_df <- life_expectancy_df[, c("Location", "Period", "Dim1", "FactValueNumeric")]
@@ -105,7 +107,7 @@ colnames(life_expectancy_df)[3] <- "Sex"
 colnames(life_expectancy_df)[4] <- "Life expectancy at birth (years)"
 ```
 
-```{r}
+```{r echo=FALSE, eval=FALSE}
 air_polution_df <- data.table::fread("raw_data/SDG Indicator 11.6.2 Concentrations of fine particulate matter (PM2.5).csv")
 air_polution_df <- air_polution_df %>% filter(Dim1 == "Total")
 air_polution_df <- air_polution_df[, c("Location", "Period", "FactValueNumeric")]
@@ -114,7 +116,7 @@ colnames(air_polution_df)[2] <- "Year"
 colnames(air_polution_df)[3] <- "PM2.5 concentration"
 ```
 
-```{r}
+```{r echo=FALSE, eval=FALSE}
 alcohol_df <- data.table::fread("raw_data/Alcohol, total per capita (15+) consumption (in litres of pure alcohol) (SDG Indicator 3.5.2).csv")
 alcohol_df <- alcohol_df[, c("Location", "Period", "Dim1", "FactValueNumeric")]
 colnames(alcohol_df)[1] <- "Country"
@@ -123,7 +125,7 @@ colnames(alcohol_df)[3] <- "Sex"
 colnames(alcohol_df)[4] <- "Alcohol comsumption per capita(in litres of pure alcohol)"
 ```
 
-```{r}
+```{r echo=FALSE, eval=FALSE}
 birth_weight_df <- data.table::fread("raw_data/Low birth weight prevalence (%).csv")
 birth_weight_df <- birth_weight_df[, c("Location", "Period", "FactValueNumeric")]
 colnames(birth_weight_df)[1] <- "Country"
@@ -131,7 +133,7 @@ colnames(birth_weight_df)[2] <- "Year"
 colnames(birth_weight_df)[3] <- "Low birth weight prevalence (%)"
 ```
 
-```{r}
+```{r echo=FALSE, eval=FALSE}
 health_expenditure_df <- data.table::fread("raw_data/Domestic general government health expenditure (GGHE-D) as percentage of general government expenditure (GGE) (%).csv")
 health_expenditure_df <- health_expenditure_df[, c("Location", "Period", "FactValueNumeric")]
 colnames(health_expenditure_df)[1] <- "Country"
@@ -139,7 +141,7 @@ colnames(health_expenditure_df)[2] <- "Year"
 colnames(health_expenditure_df)[3] <- "Government health expenditure (% general government expenditure)"
 ```
 
-```{r}
+```{r echo=FALSE, eval=FALSE}
 hospital_bed_df <- data.table::fread("raw_data/Hospital beds (per 10000 population).csv")
 hospital_bed_df <- hospital_bed_df[, c("Location", "Period", "FactValueNumeric")]
 colnames(hospital_bed_df)[1] <- "Country"
@@ -147,7 +149,7 @@ colnames(hospital_bed_df)[2] <- "Year"
 colnames(hospital_bed_df)[3] <- "Hospital beds (per 10000 population).csv"
 ```
 
-```{r}
+```{r echo=FALSE, eval=FALSE}
 overweight_df <- data.table::fread("raw_data/Prevalence of overweight among adults, BMI >= 25 (age-standardized estimate) (%).csv")
 overweight_df <- overweight_df[, c("Location", "Period", "Dim1", "FactValueNumeric")]
 colnames(overweight_df)[1] <- "Country"
@@ -156,7 +158,7 @@ colnames(overweight_df)[3] <- "Sex"
 colnames(overweight_df)[4] <- "Percent overweight(BMI >= 25, age-standardized)"
 ```
 
-```{r}
+```{r echo=FALSE, eval=FALSE}
 road_traffic_df <- data.table::fread("raw_data/Estimated road traffic death rate (per 100 000 population).csv")
 road_traffic_df <- road_traffic_df[, c("Location", "Period", "FactValueNumeric")]
 colnames(road_traffic_df)[1] <- "Country"
@@ -164,7 +166,7 @@ colnames(road_traffic_df)[2] <- "Year"
 colnames(road_traffic_df)[3] <- "Estimated road traffic death rate (per 100000 population)"
 ```
 
-```{r}
+```{r echo=FALSE, eval=FALSE}
 safe_water_df <- data.table::fread("raw_data/Population using safely managed drinking-water services (%).csv")
 safe_water_df <- safe_water_df %>% filter(Dim1 == "Total")
 safe_water_df <- safe_water_df[, c("Location", "Period", "FactValueNumeric")]
@@ -173,7 +175,7 @@ colnames(safe_water_df)[2] <- "Year"
 colnames(safe_water_df)[3] <- "% population with safe drinking water"
 ```
 
-```{r}
+```{r echo=FALSE, eval=FALSE}
 sanitation_df <- data.table::fread("raw_data/Population using safely managed sanitation services (%).csv")
 sanitation_df <- sanitation_df %>% filter(Dim1 == "Total")
 sanitation_df <- sanitation_df[, c("Location", "Period", "FactValueNumeric")]
@@ -182,7 +184,7 @@ colnames(sanitation_df)[2] <- "Year"
 colnames(sanitation_df)[3] <- "% population with safe sanitation services"
 ```
 
-```{r}
+```{r echo=FALSE, eval=FALSE}
 tobacco_df <- data.table::fread("raw_data/Age-standardized estimates of current tobacco use, tobacco smoking and cigarette smoking.csv")
 tobacco_df <- tobacco_df %>% filter(Indicator == "Estimate of current cigarette smoking prevalence (%) (age-standardized rate)")
 tobacco_df <- tobacco_df[, c("Location", "Period", "Dim1", "FactValueNumeric")]
@@ -192,7 +194,7 @@ colnames(tobacco_df)[3] <- "Sex"
 colnames(tobacco_df)[4] <- "% cigarette smoking prevalence (age-standardized)"
 ```
 
-```{r}
+```{r echo=FALSE, eval=FALSE}
 underweight_df <- data.table::fread("raw_data/Prevalence of underweight among adults, BMI < 18.5 (age-standardized estimate) (%).csv")
 underweight_df <- underweight_df[, c("Location", "Period", "Dim1", "FactValueNumeric")]
 colnames(underweight_df)[1] <- "Country"
@@ -201,7 +203,7 @@ colnames(underweight_df)[3] <- "Sex"
 colnames(underweight_df)[4] <- "Percent underweight(BMI < 18.5, age-standardized)"
 ```
 
-```{r}
+```{r echo=FALSE, eval=FALSE}
 unique_values <- unique(life_expectancy_df$Country)
 unique_list <- as.list(unique_values)
 
@@ -239,7 +241,7 @@ unemployment_df$Sex <- factor(unemployment_df$Sex, levels = c("Total", "Male", "
 unemployment_df$Year <- as.integer(unemployment_df$Year)
 ```
 
-```{r}
+```{r echo=FALSE, eval=FALSE}
 population_df <- data.table::fread("raw_data/SYB66_1_202310_Population, Surface Area and Density.csv")
 population_df <- population_df[-1, ]
 colnames(population_df) <- as.character(population_df[1, ])
@@ -263,7 +265,7 @@ colnames(sex_ratio_df)[2] <- "Year"
 colnames(sex_ratio_df)[3] <- "Sex ratio (males per 100 females)"
 ```
 
-```{r}
+```{r echo=FALSE, eval=FALSE}
 crime_df <- data.table::fread("raw_data/SYB66_328_202310_Intentional homicides and other crimes.csv")
 crime_df <- crime_df[-1, ]
 colnames(crime_df) <- as.character(crime_df[1, ])
@@ -278,7 +280,7 @@ colnames(crime_df)[3] <- "Intentional homicide rates per 100,000"
 crime_df$Year <- as.integer(crime_df$Year)
 ```
 
-```{r}
+```{r echo=FALSE, eval=FALSE}
 education_df <- data.table::fread("raw_data/SYB66_309_202310_Education.csv")
 education_df <- education_df[-1, ]
 colnames(education_df) <- as.character(education_df[1, ])
@@ -309,7 +311,7 @@ colnames(uppersec_education_df)[3] <- "Students enrolled in upper secondary educ
 uppersec_education_df$Year <- as.integer(uppersec_education_df$Year)
 ```
 
-```{r}
+```{r echo=FALSE, eval=FALSE}
 gdp_df <- data.table::fread("raw_data/SYB66_230_202310_GDP and GDP Per Capita.csv")
 gdp_df <- gdp_df[-1, ]
 colnames(gdp_df) <- as.character(gdp_df[1, ])
@@ -325,7 +327,7 @@ colnames(gdp_percapita_df)[3] <- "GDP per capita (US dollars)"
 gdp_percapita_df$Year <- as.integer(gdp_percapita_df$Year)
 ```
 
-```{r}
+```{r echo=FALSE, eval=FALSE}
 joint_df <- full_join(life_expectancy_df, alcohol_df, by = c("Country", "Year", "Sex")) %>% 
   full_join(tobacco_df, by = c("Country", "Year", "Sex")) %>% 
   full_join(safe_water_df, by = c("Country", "Year")) %>% 
@@ -348,10 +350,15 @@ joint_df <- full_join(life_expectancy_df, alcohol_df, by = c("Country", "Year", 
   full_join(gdp_percapita_df, by = c("Country", "Year")) 
 ```
 
-
-```{r eval = FALSE}
+```{r echo=FALSE, eval=FALSE}
 write.csv(joint_df, "/Users/yinuozhao/Desktop/UofT/STA303/sta303_project/LifeExpectancyIndicators.csv")
 ```
 
+### Loading Dataset
 
-
+```{r}
+link <- "https://raw.githubusercontent.com/inorrr/sta303_project/main/LifeExpectancyIndicators.csv"
+if (!file.exists("LifeExpectancyIndicators.csv"))
+  download.file(link, destfile = "LifeExpectancyIndicators.csv")
+df <- data.table::fread("LifeExpectancyIndicators.csv")
+```
